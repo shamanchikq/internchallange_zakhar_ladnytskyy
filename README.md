@@ -34,7 +34,7 @@ Follow these steps to set up and run the project:
    The server will start on `http://localhost:5000`.
 
 4. **Run the Application**:
-   Visit `http://localhost:5000` in your web browser or use tools like Postman to interact with the API.
+   Use tools like Postman to interact with the API.
 
 ## API Endpoints
 
