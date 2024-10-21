@@ -102,13 +102,11 @@ The following commands were used to set up development dependencies:
    ```bash
    npm install --save-dev jest
    ```
-   Jest is a JavaScript testing framework used for writing and running tests.
 
 2. **Install Jest and Supertest**:
    ```bash
    npm install jest supertest --save-dev
    ```
-   Supertest is used for testing HTTP endpoints. This command installs both Jest and Supertest as development dependencies.
 
 3. **Install Babel for Jest Support**:
    ```bash
